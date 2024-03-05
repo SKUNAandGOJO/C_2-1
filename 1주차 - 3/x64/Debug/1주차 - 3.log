@@ -1,0 +1,4 @@
+﻿  main.c
+D:\c응용 나건우\1주차 - 3\main.c(12,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c응용 나건우\1주차 - 3\main.c(22,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1주차 - 3.vcxproj -> D:\c응용 나건우\1주차 - 3\x64\Debug\1주차 - 3.exe
